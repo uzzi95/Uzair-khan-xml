@@ -6,15 +6,15 @@
         <head>
             <title>This Is an XSL FILE</title>
         </head>
-        <body>
-            <h2>XSL WORK</h2>
+        <body bgmargin="auto">
+            <h2 style="text-align:center">XSL WORK</h2>
             <table border="3">
-                <tr>
+                <tr bgcolor="green">
                     <th colspan="4">DALDA EMPYLOYEES </th>
                 </tr>
 
 
-                <tr>
+                <tr bgcolor="yellow">
                     <th>NAME</th>
                     <th>BLOCK</th>
                     <th>LOCATION</th>
@@ -22,7 +22,7 @@
 
                 </tr>
                 <xsl:for-each select="department">
-                    <tr>
+                    <tr bgcolor="pink">
                         <td><xsl:value-of select="name"></xsl:value-of></td>
                         <td><xsl:value-of select="block"></xsl:value-of></td>
                         <td><xsl:value-of select="location"></xsl:value-of></td>
