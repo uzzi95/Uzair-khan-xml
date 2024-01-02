@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="six.xsl" type="text/xsl"?>
+
+<music>
+    <album>
+        <title>Empire Burlesque</title>
+        <artist>Bob Dylan</artist>
+    </album>
+
+    <album>
+        <title>Hide Your Heart</title>
+        <artist>Bonnie Tyler</artist>
+    </album>
+
+    <album>
+        <title>Greatest Hits</title>
+        <artist>Dolly Parton</artist>
+    </album>
+
+    <album>
+        <title>Still Got The Blues</title>
+        <artist>Gary Moore</artist>
+    </album>
+
+    <album>
+        <title>Eros</title>
+        <artist>Eros Ramazzotti</artist>
+    </album>
+
+    <album>
+        <title>One Night Only</title>
+        <artist>Bee Gees</artist>
+    </album>
+
+    <album>
+        <title>Sylvias Mother</title>
+        <artist> Dr.Hook</artist>
+    </album>
+
+    <album>
+        <title>Maggie May</title>
+        <artist>Rod Stewart</artist>
+    </album>
+
+    <album>
+        <title>Romanza</title>
+        <artist>Andrea Bocelli</artist>
+    </album>
+
+    <album>
+        <title>Empire Burlesque</title>
+        <artist>Bob Dylan</artist>
+    </album>
+
+    <album>
+        <title>Hide Your Heart</title>
+        <artist>Bonnie Tyler</artist>
+    </album>
+
+    <album>
+        <title>Greatest Hits</title>
+        <artist>Dolly Parton</artist>
+    </album>
+
+    <album>
+        <title>Still Got The Blues</title>
+        <artist>Gary Moore</artist>
+    </album>
+
+    <album>
+        <title>Eros</title>
+        <artist>Eros Ramazzotti</artist>
+    </album>
+
+    <album>
+        <title>One Night Only</title>
+        <artist>Bee Gees</artist>
+    </album>
+
+    <album>
+        <title>Sylvias Mother</title>
+        <artist> Dr.Hook</artist>
+    </album>
+
+    <album>
+        <title>Maggie May</title>
+        <artist>Rod Stewart</artist>
+    </album>
+
+    <album>
+        <title>Romanza</title>
+        <artist>Andrea Bocelli</artist>
+    </album>
+
+    
+</music>
