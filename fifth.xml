@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="fifth.xsl" type="text/xsl"?>
+
+<organization>
+    <department>
+        <name>Uzair</name>
+        <age>28</age>
+        <salary>80000</salary>
+        <number>125004</number>
+    </department>
+
+    <department>
+        <name>Moin</name>
+        <age>35</age>
+        <salary>62000</salary>
+        <number>221144558</number>
+    </department>
+
+    <department>
+        <name>Usama</name>
+        <age>32</age>
+        <salary>60000</salary>
+        <number>02136658</number>
+    </department>
+
+    <department>
+        <name>Daniyal</name>
+        <age>34</age>
+        <salary>70000</salary>
+        <number>0900214</number>
+    </department>
+</organization>
