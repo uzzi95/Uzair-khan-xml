@@ -44,4 +44,23 @@ newElem.style.fontSize = "30px";
 let para = document.createElement('h3');
 newElem.appendChild(para);
 
+let newBtn = document.createElement('button');
+
+obj[0].appendChild(newBtn);
+
+newBtn.innerHTML = "Submit";
+newBtn.style.padding ="20px 24px ";
+newBtn.className = "btn btn-dark";
+newBtn.style.fontsize = "24px"
+
+
+
+
+// EVENTS
+newBtn.addEventListener('click' , toggleBtn);
+function toggleBtn(){
+    console.log("You clicked on me!")
+    newBtn.innerHTML = "Wow";
+}
+
 
