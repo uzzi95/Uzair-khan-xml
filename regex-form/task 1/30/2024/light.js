@@ -10,7 +10,7 @@ function toggleBulb(){
         mq.textContent = "Turn Off";
         btn.className = `btn btn-outline-success`;
         btn.style.boxShadow = "3px 3px 4px 4px green";
-        mq.style.color = "yellow";
+        mq.style.color = "green";
         mq.style.boxShadow = "3px 3px 4px 4px green";
         bulb.style.boxShadow = "3px 3px 4px 4px green"
         bulb.style.padding = "10px"
