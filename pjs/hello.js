@@ -70,3 +70,27 @@ promiseFour
     .finally(function() {
         console.log("FINALLY!")
     })
+
+let promiseFive = new Promise(function(resolve, reject) {
+    setTimeout(function() {
+        let error = false;
+        if (!error) {
+            resolve({ car: "VW", color: "white" })
+        } else {
+            reject("ERROR : THIS CAR IS NO LONGER EXIST IN STOCK!")
+        }
+
+    }, 2000)
+})
+async function ConsumedPromiseFive() {
+    try {
+
+        let response = await promiseFive;
+        console.log(response);
+    } catch (error) {
+        console.log(error)
+    }
+}
+
+
+ConsumedPromiseFive()
